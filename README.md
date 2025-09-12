@@ -18,7 +18,7 @@
 
 - 👀 a passionate programmer and learner.
 - 🌱 I’m currently learning Spring Boot FrameWork.
-- 📫 How to reach me **RejaulKarim64@gmail.com**
+- 📫 How to reach me **cmrejaulkarim@gmail.com**
 - 📄 Know about my experiences [iamcrk.me](https://iamcrk.me)
 
 
