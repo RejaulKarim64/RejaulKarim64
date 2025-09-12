@@ -18,8 +18,8 @@
 
 - 👀 a passionate programmer and learner.
 - 🌱 I’m currently learning Spring Boot FrameWork.
-<!-- - 📫 How to reach me **RejaulKarim64@gmail.com** -->
-<!-- - 📄 Know about my experiences [iamcrk.me](https://iamcrk.me) -->
+- 📫 How to reach me **RejaulKarim64@gmail.com**
+- 📄 Know about my experiences [iamcrk.me](https://iamcrk.me)
 
 
 
@@ -38,7 +38,7 @@
 
 <h3 align="left">Connect with me:<!--RejaulKarim64--></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/c-m-rejaul-karim-0039161b1-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RejaulKarim64" height="30" width="40" /><!--RejaulKarim64--></a>
+<a href="https://www.linkedin.com/in/c-m-rejaul-karim-0039161b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RejaulKarim64" height="30" width="40" /><!--RejaulKarim64--></a>
 <a href="https://www.facebook.com/IDK.Username." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RejaulKarim64" height="30" width="40" /><!--RejaulKarim64--></a>
 </p>
 
